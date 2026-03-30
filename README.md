@@ -1,4 +1,6 @@
-# OSINT-HackConRD-Presentacion
+# HackConRD-Presentacion
+<img width="768" height="175" alt="image" src="https://github.com/user-attachments/assets/532c843c-9087-473f-a0d1-d6fa830481ad" />
+
 
 ## OSINT -- "La Huella Invisible" 
 
