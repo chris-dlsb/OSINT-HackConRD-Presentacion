@@ -1,6 +1,6 @@
 # OSINT-HackConRD-Presentacion
 
-## Enterprise OSINT -- "La Huella Invisible" 📌 Descripción
+## OSINT -- "La Huella Invisible" 
 
 Este yecto presenta una introducción práctica al OSINT (Open Source
 Intelligence) aplicado a entornos empresariales, demostrando cómo una
