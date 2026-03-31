@@ -4,7 +4,7 @@
 
 ## OSINT -- "La Huella Invisible" 
 
-Este yecto presenta una introducción práctica al OSINT (Open Source
+Este proyecto presenta una introducción práctica al OSINT (Open Source
 Intelligence) aplicado a entornos empresariales, demostrando cómo una
 simple imaprogen puede exponer información crítica.*
 
